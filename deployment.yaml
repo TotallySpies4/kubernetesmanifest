@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: siri0000/totallydockerhub:13
+      - image: siri0000/totallydockerhub:75
         name: flaskdemo
         resources: {}
 status: {}
