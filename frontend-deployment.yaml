@@ -18,7 +18,7 @@ spec:
         app: frontend
     spec:
       containers:
-      - image: siri0000/frontend_image:5
+      - image: siri0000/frontend_image:6
         name: frontend
         resources: {}
 status: {}
