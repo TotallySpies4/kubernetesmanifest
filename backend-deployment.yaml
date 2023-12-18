@@ -18,7 +18,7 @@ spec:
         app: backend
     spec:
       containers:
-      - image: siri0000/backend_image:16
+      - image: siri0000/backend_image:17
         name: backend
         resources: {}
 status: {}
