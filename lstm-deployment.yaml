@@ -18,7 +18,7 @@ spec:
         app: lstm
     spec:
       containers:
-      - image: siri0000/lstm_model_image:17
+      - image: siri0000/lstm_model_image:103
         name: lstm
         resources: {}
 status: {}
